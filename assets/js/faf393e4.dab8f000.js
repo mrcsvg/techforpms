@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktech_for_pms=self.webpackChunktech_for_pms||[]).push([[6324],{6133:e=>{e.exports=JSON.parse('{"title":"Come\xe7ando","slug":"/category/come\xe7ando","permalink":"/docs/category/come\xe7ando","navigation":{"previous":{"title":"Ola, Mundo!","permalink":"/docs/ola-mundo"},"next":{"title":"visao-geral","permalink":"/docs/comecando/visao-geral"}}}')}}]);
