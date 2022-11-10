@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktech_for_pms=self.webpackChunktech_for_pms||[]).push([[1655],{4679:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/techforpms/blog/tags/docusaurus","allTagsPath":"/techforpms/blog/tags","count":4}')}}]);
