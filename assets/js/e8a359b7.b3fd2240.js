@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktech_for_pms=self.webpackChunktech_for_pms||[]).push([[8189],{3769:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
