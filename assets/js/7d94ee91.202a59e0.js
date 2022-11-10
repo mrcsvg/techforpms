@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktech_for_pms=self.webpackChunktech_for_pms||[]).push([[6486],{7383:e=>{e.exports=JSON.parse('{"permalink":"/techforpms/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
